@@ -1,0 +1,13 @@
+# Build output
+/supermarket
+*.o
+
+# Runtime data (created when the program runs)
+*.db
+sales_report.txt
+inventory_report.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
